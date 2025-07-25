@@ -16,5 +16,5 @@ The screen content and webcam video are drawn onto an HTML5 `<canvas>`, which is
 * Opera 60 and up
 
 ## Links
-* [Live demo of this code](https://addpipe.com/get-display-media-with-cam-demo/)
+* [Live demo of this code](https://addpipe.com/get-display-media-with-cam/)
 * [Blog post](https://blog.addpipe.com/recording-the-webcam-and-screen-same-time/)
